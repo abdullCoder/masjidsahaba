@@ -366,13 +366,13 @@ document.addEventListener('DOMContentLoaded', ()=>{
         },
         {
             audioSrc:
-            './tracks/Albasu/Minhajul Muslim (2).mp3',
+            './Minhajul Muslim (2).mp3',
             coverSrc: './images/albasu2.png',
             name: 'Malam Abdurrahman Albasu',
             desc: 'Minhajul Muslim',
             id: 37,
             download:
-            './tracks/Albasu/Minhajul Muslim (2).mp3',
+            './Minhajul Muslim (2).mp3',
         },
         {
             audioSrc:
@@ -436,23 +436,23 @@ document.addEventListener('DOMContentLoaded', ()=>{
         },
         {
             audioSrc:
-            './tracks/Albasu/Minhajul Muslim (9).mp3',
-            coverSrc: './images/albasu2.png',
+            '.Minhajul Muslim (9).mp3',
+            coverSrc: '.albasu2.png',
             name: 'Malam Abdurrahman Albasu',
             desc: 'Minhajul Muslim',
             id: 43,
             download:
-            './tracks/Albasu/Minhajul Muslim (9).mp3',
+            '.Minhajul Muslim (9).mp3',
         },
         {
             audioSrc:
-            './tracks/Albasu/Minhajul Muslim (10).mp3',
-            coverSrc: './images/albasu3.png',
+            './Minhajul Muslim (10).mp3',
+            coverSrc: './albasu3.png',
             name: 'Malam Abdurrahman Albasu',
             desc: 'Minhajul Muslim',
             id: 44,
             download:
-            './tracks/Albasu/Minhajul Muslim (10).mp3',
+            './Minhajul Muslim (10).mp3',
         },
         {
             audioSrc:
