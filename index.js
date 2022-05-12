@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
         {
             audioSrc:
             './tracks/liman/bukhary hifzul ilmi.mp3',
-            coverSrc: './images/liman1.png',
+            coverSrc: 'liman1.png',
             name: 'Malam Muhammad Tukur',
             desc: 'Bukhary hifzul ilmi',
             id: 0,
