@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
         {
             audioSrc:
             './tracks/liman/Muhammad Tukur Tafsir yunus 17.mp3',
-            coverSrc: './images/liman1.png',
+            coverSrc: './liman1.png',
             name: 'Malam Muhammad Tukur',
             desc: 'Suratul Yunus',
             id: 2,
